@@ -28,13 +28,13 @@ print("""\033[1;31m  \033[92m
  |___/|___/ \___/|___/ /_/ \_\_|   |_/_/ \_\___|_|\_\ 
                                                       
  
-              Script By     =>  Hack with Vyshu 
-              instagram     =>  @hack_wityh_vyshu 
-              github        =>  keralahacker 
+              Script By     =>  Anon_R7
+              instagram     =>  @mshaifulrizal
+              github        =>  armyR7 
 ============================================================
 """)
 
-print( """\033[94m ONLY FOR EDUCATIONAL PURPOSE   \033[97m   """)
+print( """\033[94m TOOLS PRIBADI WAR BY : Anon_R7   \033[97m   """)
 web = raw_input (" Target website   : ")
 os.system("nslookup %s  " % (web ))
 print 
